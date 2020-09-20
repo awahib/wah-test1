@@ -9,3 +9,5 @@ sudo ./set-hostname-ec2-rhel.sh <name>
 
 timezone.sh
 sudo ./set-timezone-rhel.sh <timezone>
+
+TEST TEST TEST
